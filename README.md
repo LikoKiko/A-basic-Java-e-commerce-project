@@ -24,6 +24,4 @@ Recommended extensions:
 - Java Extension Pack: https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack
 - Tabnine
 
-## Contributing
-
 This is a university project. Feel free to fork and learn from it.
